@@ -1,0 +1,13 @@
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.exe
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.deps.json
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.runtimeconfig.json
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.runtimeconfig.dev.json
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.dll
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.pdb
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.csprojAssemblyReference.cache
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.AssemblyInfoInputs.cache
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.AssemblyInfo.cs
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.csproj.CoreCompileInputs.cache
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.dll
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.pdb
+E:\pemrograman\propertis dan field\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.genruntimeconfig.cache
